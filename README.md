@@ -20,3 +20,16 @@
 - Consumer API
 - Streams API
 - Connector API
+
+## Course
+
+- Kafka Producer
+    - Sending Message with Key
+    - Important Configurations
+- Kafka Consumer
+    - Consumer Groups and Consumer Offset Management
+- Persisting Library Events in DB
+- Error Handling, Retry and Recovery
+    - Kafka Consumers
+    - Kafka Producer
+- Kafka Security using SSl
